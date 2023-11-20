@@ -1,4 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+/Users/sapphire/Documents/GitHub/GowanusAR_Geospatial_Challenge_Submission/gowanus_geospatial/Assets/Models/TideMill/waterwheel_001.blend filter=lfs diff=lfs merge=lfs -text
+/Users/sapphire/Documents/GitHub/GowanusAR_Geospatial_Challenge_Submission/gowanus_geospatial/Assets/Zibra[[:space:]]Assets/Liquid[[:space:]]Elemental/Prefabs/LiquidElemental.prefab filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
 *.prefab filter=lfs diff=lfs merge=lfs -text
