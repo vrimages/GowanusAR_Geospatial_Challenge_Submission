@@ -2,7 +2,7 @@
 How did a zone of extreme pollution become one of Brooklyn’s fastest developing neighborhoods? An AR tour brings to life the Gowanus Canal’s dynamic past, metamorphic present, and speculative futures.
 
 
-This repo contains a project [submitted to Google's Immersive Geospatial Creator Challenge] (https://devpost.com/software/gowanus-ar). (November, 2023)
+This repo contains a project [[submitted to Google's Immersive Geospatial Creator Challenge](https://devpost.com/software/gowanus-ar)]. (November, 2023)
 
 
 # Instructions for Testing
