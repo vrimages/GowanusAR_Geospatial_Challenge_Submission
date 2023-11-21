@@ -1,4 +1,4 @@
-# GowanusAR_Geospatial_Challenge_Submission
+# GowanusAR: Geospatial Challenge Submission
 How did a zone of extreme pollution become one of Brooklyn’s fastest developing neighborhoods? An AR tour brings to life the Gowanus Canal’s dynamic past, metamorphic present, and speculative futures.
 
 
