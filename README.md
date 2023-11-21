@@ -1,7 +1,9 @@
 # GowanusAR_Geospatial_Challenge_Submission
 How did a zone of extreme pollution become one of Brooklyn’s fastest developing neighborhoods? An AR tour brings to life the Gowanus Canal’s dynamic past, metamorphic present, and speculative futures.
 
+
 This repo contains a project [submitted to Google's Immersive Geospatial Creator Challenge] (https://devpost.com/software/gowanus-ar). (November, 2023)
+
 
 # Instructions for Testing
 1. Download and open the Unity project
@@ -12,8 +14,10 @@ This repo contains a project [submitted to Google's Immersive Geospatial Creator
 6. Use the 3D map to navigate to each site and click on the 3D crane to enter AR mode and enter the immersive story
 7. Happy Gowanus touring!
 
+
 # TestFlight Build
 1. Alternatively, you can download a TestFlight version of the app at [this link] ()
+
 
 # Contact
 Please contact lucas.wozniak1@gmail.com with any questions or comments!
