@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['notifychange_0',['NotifyChange',['../a00818.html#a0af557e93137dbb3358b82ad34849b49',1,'com.zibra.liquid.Manipulators.Manipulator.NotifyChange()'],['../a00858.html#a0af557e93137dbb3358b82ad34849b49',1,'com.zibra.liquid.Solver.ZibraLiquid.NotifyChange()'],['../a01006.html#a0af557e93137dbb3358b82ad34849b49',1,'com.zibra.smoke_and_fire.Manipulators.Manipulator.NotifyChange()'],['../a01082.html#a0af557e93137dbb3358b82ad34849b49',1,'com.zibra.smoke_and_fire.Solver.ZibraSmokeAndFire.NotifyChange()']]]
+];

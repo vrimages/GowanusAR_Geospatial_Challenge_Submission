@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 067e9d676a71f41ddabc07ba47e9a5dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cabinet Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e14debea8427349f09602969e02c085f, type: 3}
+  - {fileID: 12800000, guid: 74292b65108854ebea9aa9451272221d, type: 3}
+  - {fileID: 12800000, guid: b1bb4e14627214c1bb54d8e0dabffb38, type: 3}
+  - {fileID: 12800000, guid: f1afa0618f2054609a39d48e9c6f6c6d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

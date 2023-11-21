@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:GroupBox name="PreviewGroupBox" tooltip="How a character will look" style="margin-left: 5px; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; justify-content: space-between; display: flex; flex-shrink: 1;">
+        <ui:IMGUIContainer name="PreviewSettingsContainer" style="height: 25px; width: 300px; border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0; display: flex;" />
+        <ui:IMGUIContainer name="PreviewContainer" tooltip="Interactable preview" style="height: 200px; width: 300px; background-color: rgb(60, 54, 54); border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-left-radius: 0; border-bottom-right-radius: 0; overflow: hidden; justify-content: flex-end;">
+            <ui:Label text="Vertex : 13" display-tooltip-when-elided="true" name="ModelInformationLabel" class="InformationLabel" style="-unity-text-align: upper-center; -unity-font-style: normal; -unity-text-outline-width: 0; -unity-text-outline-color: rgba(0, 0, 0, 0.39); font-size: 11px; color: rgba(255, 255, 255, 0.94); background-color: rgba(0, 0, 0, 0.39); margin-right: 0; padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;" />
+        </ui:IMGUIContainer>
+        <ui:VisualElement style="flex-direction: row; flex-grow: 0; align-items: center; margin-top: 0; justify-content: center; background-color: rgb(30, 30, 30); max-width: 300px;">
+            <ui:TextField picking-mode="Ignore" text="a" max-length="1" name="PreviewCharacterField" is-delayed="false" class="CenteredTextField" style="min-width: 30px; -unity-text-align: middle-center; align-items: center; margin-left: 3px; margin-right: 3px; margin-top: 3px; margin-bottom: 3px; flex-grow: 0; border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; border-top-left-radius: 0; border-bottom-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; justify-content: flex-start;" />
+        </ui:VisualElement>
+    </ui:GroupBox>
+</ui:UXML>

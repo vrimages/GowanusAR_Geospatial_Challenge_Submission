@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['effects_0',['Effects',['../a00586.html',1,'com::zibra::common']]]
+];

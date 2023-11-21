@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ecea8d2b232d34897af5037a179b38d4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cabinet Grotesk Variable
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e99b00735ca1a47c58380b6e46be0d2a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['validatelicense_0',['ValidateLicense',['../a00626.html#a9e1cc93b78157fd4a74814c2d40e5a27',1,'com::zibra::common::Editor::SDFObjects::ServerAuthManager']]]
+];

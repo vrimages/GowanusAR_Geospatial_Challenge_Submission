@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2dabed43aca5f4c86b4d0f12e2c1300e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ladi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9482d722f74874befb6ae0752a295c81, type: 3}
+  - {fileID: 12800000, guid: 87c7228d7710c4dab983683beeb25cd7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

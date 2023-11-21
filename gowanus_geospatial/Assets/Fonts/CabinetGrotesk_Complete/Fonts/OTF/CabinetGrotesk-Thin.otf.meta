@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 3f5a8400a0b2c46718afa658afa396bb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cabinet Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f9ab22cd795e244f5b7e5381a38fe34f, type: 3}
+  - {fileID: 12800000, guid: e14debea8427349f09602969e02c085f, type: 3}
+  - {fileID: 12800000, guid: 74292b65108854ebea9aa9451272221d, type: 3}
+  - {fileID: 12800000, guid: b76ec1e13321847b58de2a9550cfd399, type: 3}
+  - {fileID: 12800000, guid: ba7cf4e54689e4e3d9867aaebe8c79b2, type: 3}
+  - {fileID: 12800000, guid: cd5efce510dcd4679bece8d5a24b213a, type: 3}
+  - {fileID: 12800000, guid: b1bb4e14627214c1bb54d8e0dabffb38, type: 3}
+  - {fileID: 12800000, guid: 067e9d676a71f41ddabc07ba47e9a5dc, type: 3}
+  - {fileID: 12800000, guid: f1afa0618f2054609a39d48e9c6f6c6d, type: 3}
+  - {fileID: 12800000, guid: d6759471c9b214da3994b4c81a75ac14, type: 3}
+  - {fileID: 12800000, guid: 0db61c1af50f4479eafa4ed001269c95, type: 3}
+  - {fileID: 12800000, guid: 97ec4987704a04a6e8169944573647e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

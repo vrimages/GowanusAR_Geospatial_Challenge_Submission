@@ -1,0 +1,212 @@
+.Tab {
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-Regular.ttf?fileID=12800000&guid=e8239e9a7fbaa2048a9e65d5d35d76ce&type=3#Montserrat-Regular');
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 0;
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-Regular%20SDF.asset?fileID=11400000&guid=5f7aecc8015b29a4fa747b92096f9790&type=2#Montserrat-Regular SDF');
+}
+
+.Button {
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold.ttf?fileID=12800000&guid=9adadeb836c409344991102d1e896531&type=3#Montserrat-SemiBold');
+    margin-left: 5px;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold%20SDF.asset?fileID=11400000&guid=3f2d54698aa06f3499c2f510a4aa170e&type=2#Montserrat-SemiBold SDF');
+    -unity-font-style: normal;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    color: rgb(255, 255, 255);
+    transition-duration: 0.15s;
+    -unity-text-align: middle-center;
+    flex-grow: 0;
+    height: auto;
+    min-height: 20px;
+    flex-shrink: 1;
+    transition-timing-function: ease-in;
+}
+
+.Button:hover {
+    color: rgb(255, 255, 255);
+    border-left-color: rgba(255, 255, 255, 0.12);
+    border-right-color: rgba(255, 255, 255, 0.12);
+    border-top-color: rgba(255, 255, 255, 0.12);
+    border-bottom-color: rgba(255, 255, 255, 0.12);
+    border-top-left-radius: -1px;
+    border-bottom-left-radius: -1px;
+    border-top-right-radius: -1px;
+    border-bottom-right-radius: -1px;
+}
+
+.unity-label {
+    margin-left: 0;
+    margin-right: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 1;
+    min-width: auto;
+    transition-duration: 1s;
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold%20SDF.asset?fileID=11400000&guid=3f2d54698aa06f3499c2f510a4aa170e&type=2#Montserrat-SemiBold SDF');
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold.ttf?fileID=12800000&guid=9adadeb836c409344991102d1e896531&type=3#Montserrat-SemiBold');
+}
+
+.unity-foldout__content {
+    margin-left: 0;
+    margin-right: 0;
+    background-color: rgba(255, 255, 255, 0.08);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-width: 1px;
+    border-left-color: rgb(48, 48, 48);
+    border-right-color: rgb(48, 48, 48);
+    border-top-color: rgb(48, 48, 48);
+    border-bottom-color: rgb(48, 48, 48);
+    transition-duration: 0.25s;
+    transition-timing-function: ease-out;
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-Regular.ttf?fileID=12800000&guid=e8239e9a7fbaa2048a9e65d5d35d76ce&type=3#Montserrat-Regular');
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-Regular%20SDF.asset?fileID=11400000&guid=5f7aecc8015b29a4fa747b92096f9790&type=2#Montserrat-Regular SDF');
+}
+
+.unity-foldout .unity-toggle {
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: rgba(60, 60, 60, 0.2);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 0;
+    transition-duration: 0.25s;
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-Regular%20SDF.asset?fileID=11400000&guid=5f7aecc8015b29a4fa747b92096f9790&type=2#Montserrat-Regular SDF');
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-Regular.ttf?fileID=12800000&guid=e8239e9a7fbaa2048a9e65d5d35d76ce&type=3#Montserrat-Regular');
+    color: rgb(255, 255, 255);
+}
+
+.unity-foldout .unity-toggle:hover {
+    background-color: rgba(65, 65, 65, 0.39);
+}
+
+.unity-foldout .unity-toggle .unity-label {
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold.ttf?fileID=12800000&guid=9adadeb836c409344991102d1e896531&type=3#Montserrat-SemiBold');
+    color: rgb(255, 255, 255);
+    transition-duration: 0.2s;
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-Regular%20SDF.asset?fileID=11400000&guid=5f7aecc8015b29a4fa747b92096f9790&type=2#Montserrat-Regular SDF');
+    -unity-font-style: bold;
+}
+
+.unity-foldout .unity-toggle:hover .unity-label {
+    scale: 1.01 1.01;
+}
+
+.InformationLabel {
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold.ttf?fileID=12800000&guid=9adadeb836c409344991102d1e896531&type=3#Montserrat-SemiBold');
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold%20SDF.asset?fileID=11400000&guid=3f2d54698aa06f3499c2f510a4aa170e&type=2#Montserrat-SemiBold SDF');
+    -unity-font-style: normal;
+    color: rgba(210, 210, 210, 0.59);
+    transition-duration: 0.25s;
+    flex-wrap: wrap;
+    white-space: normal;
+}
+
+.InformationLabel:hover {
+    color: rgba(255, 255, 255, 0.78);
+}
+
+.textButton {
+    -unity-font-definition: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold%20SDF.asset?fileID=11400000&guid=3f2d54698aa06f3499c2f510a4aa170e&type=2#Montserrat-SemiBold SDF');
+    -unity-font: url('project://database/Assets/Plugins/Tiny%20Giant%20Studio/Common/Fonts/Montserrat-SemiBold.ttf?fileID=12800000&guid=9adadeb836c409344991102d1e896531&type=3#Montserrat-SemiBold');
+    color: rgba(255, 223, 100, 0.94);
+    transition-duration: 0.15s, 1s;
+    background-color: rgba(255, 255, 255, 0);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    scale: 1 1;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    -unity-font-style: normal;
+    transition-property: all, color;
+}
+
+.textButton:hover {
+    transition-duration: 0.25s;
+    background-color: rgba(0, 0, 0, 0);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    scale: 1.05 1.05;
+    rotate: -0.5deg;
+}
+
+.iconButton {
+    transition-duration: 0.25s;
+}
+
+.iconButton:hover {
+    scale: 1.2 1.2;
+    rotate: -350deg;
+}
+
+.unity-base-text-field__input {
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    flex-grow: 1;
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+.HardBackground {
+    background-color: rgba(0, 0, 0, 0.39);
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex-direction: row;
+}
