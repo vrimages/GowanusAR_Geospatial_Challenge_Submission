@@ -16,7 +16,7 @@ This repo contains a project [submitted to Google's Immersive Geospatial Creator
 
 
 # TestFlight Build
-1. Alternatively, you can download a TestFlight version of the app at [this link] ()
+1. Alternatively, you can download a TestFlight version of the app at [this link](https://testflight.apple.com/join/P5sT0XmF)
 
 
 # Contact
